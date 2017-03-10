@@ -1,6 +1,8 @@
 # Network Request Logger
 
-Browser extension for logging third-party network requests. Built using the [Web Extension API](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) as a prototype for [Outreachy2017](https://m.wiki.mozilla.org/User:Ptheriault/Outreachy2017)
+Browser extension for logging third-party network requests. 
+
+Built using the [Web Extension API](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) as a prototype for [Outreachy2017](https://m.wiki.mozilla.org/User:Ptheriault/Outreachy2017)
 
 #### To Run as a Firefox Extension:
 1. Download or clone repository
