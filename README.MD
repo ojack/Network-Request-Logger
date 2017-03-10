@@ -9,5 +9,5 @@ Built using the [Web Extension API](https://developer.mozilla.org/en-US/Add-ons/
 2. Open Firefox, navigate to [about:debugging](about:debugging)
 3. In Add-ons, click "Load Temporary Add-on"
 4. Select any file in the "Network Request Logger" folder
-
+5. Open browser console to view request logs
 
